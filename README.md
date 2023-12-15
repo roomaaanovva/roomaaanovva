@@ -1,16 +1,13 @@
-### Hi there 👋
+---
+> Люди полагают, что время — это четкая последовательность причин и следствий, но с нелинейной объективной точки зрения оно больше похоже на огромный шар колеблющегося, волнующегося вещества
+-  10 Доктор
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CmQQsUxwjBEgU/giphy.gif" width="400"/>
+</div>  
 
-<!--
-**roomaaanovva/roomaaanovva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ - Человек года 2006 по мнению журнала "Time"
+ - Студент первого радиотеха СПбПУ 
+ - Умею играть на гитаре
+ - Принимала участие в военных сборах
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
